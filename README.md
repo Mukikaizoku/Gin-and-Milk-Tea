@@ -3,7 +3,7 @@
 
 Common Module : https://github.com/lunker/ChatProtocol  
 Client : https://github.com/Simhyejin/ChatClient  
-Frontend server : https://github.com/kimsin3003/ChatServer/tree/Release  
+Front-End/Login Sever : https://github.com/Mukikaizoku/FE-and-Login-Servers-for-Gin-MilkTea-Chat
 Backend Server : https://github.com/lunker/lunkerRedis
 
 ---
